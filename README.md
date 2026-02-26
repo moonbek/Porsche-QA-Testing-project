@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<img src="https://upforme.ru/uploads/0017/fe/78/5/234958.gif" alt="Funny GIF" width="300">
+<img src="https://github.com/SerineGit/Porsche-project-page/blob/main/qa-porsche.gif" alt="Funny GIF">
 
 **End-to-End Testing Framework for Porsche Platform**
 
