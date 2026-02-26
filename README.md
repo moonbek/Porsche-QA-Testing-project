@@ -1,8 +1,8 @@
 # 🏎️ Porsche | Quality Assurance Project
 
 <div align="center">
-
-![gif](https://upforme.ru/uploads/0017/fe/78/5/234958.gif)
+  
+<img src="https://upforme.ru/uploads/0017/fe/78/5/234958.gif" alt="Funny GIF" width="300">
 
 **End-to-End Testing Framework for Porsche Platform**
 
